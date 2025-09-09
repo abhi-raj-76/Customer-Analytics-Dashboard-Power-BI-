@@ -47,8 +47,17 @@ The objective of this project is to design and develop an **interactive dashboar
 - **Power BI Desktop** – Dashboard development  
 - **Power Query** – Data cleaning & transformation  
 - **DAX** – Measures for RFM scoring & KPIs  
-- **Excel (AdventureWorks dataset)** – Data source  
+- **Excel (AdventureWorksDW.xlsx & RFM Table.xlsx)** – Data sources  
 - **PowerPoint** – Custom background design for dashboards  
+
+---
+
+## Files in Repository
+
+- `POWER BI PROJECT.pbix` – Main Power BI report file  
+- `AdventureWorksDW.xlsx` – Dataset containing sales and customer data  
+- `RFM Table.xlsx` – Dataset used for RFM segmentation  
+- `Dashboard 1.jpg`, `Dashboard 2.jpg`, `Dashboard 3.jpg`, `Dashboard 4.jpg` – Screenshots of dashboard pages  
 
 ---
 
@@ -67,11 +76,11 @@ The objective of this project is to design and develop an **interactive dashboar
 
 | Customer Demographics | Customer Segmentation |
 |----------------------|---------------------|
-| ![Demographics Page](./Dashboard1.jpg) | ![Segmentation Page](./screenshots/page2.png) |
+| ![Dashboard 1](./Dashboard%201.jpg) | ![Dashboard 2](./Dashboard%202.jpg) |
 
 | Customer Details | Segment Description |
 |-----------------|-------------------|
-| ![Customer Details](./screenshots/page3.png) | ![Segment Description](./screenshots/page4.png) |
+| ![Dashboard 3](./Dashboard%203.jpg) | ![Dashboard 4](./Dashboard%204.jpg) |
 
 ---
 
@@ -79,7 +88,7 @@ The objective of this project is to design and develop an **interactive dashboar
 
 1. Clone this repository  
 2. Open the `POWER BI PROJECT.pbix` file in **Power BI Desktop**  
-3. Connect the data source (AdventureWorks Excel dataset)  
+3. Ensure the datasets `AdventureWorksDW.xlsx` and `RFM Table.xlsx` are in the same folder as the `.pbix` file  
 4. Refresh the data  
 5. Explore the dashboard pages  
 
@@ -102,8 +111,8 @@ If you have ideas to improve this dashboard or add new features, feel free to op
 
 ## Contact
 
-**Author:** ABHISHEK KUMAR RAJ  
-**LinkedIn:**   https://www.linkedin.com/in/abhishek-kumar-raj-507a67349/
+**Author:** Abhishek Kumar Raj  
+**LinkedIn:** [Abhishek Kumar Raj](https://www.linkedin.com/in/abhishek-kumar-raj-507a67349/)  
 **Email:** 24mcmc24@uohyd.ac.in  
 
 ---
